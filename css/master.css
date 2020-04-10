@@ -19,4 +19,18 @@ h2{
 }
 img{
   height: 200px;
+  border-radius: 100%;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+}
+.main{
+  border-radius: 55%;
+  border-style: dashed;
+  border-top: double;
+  border-bottom: double;
+  border-width: 2px;
 }
